@@ -1,0 +1,4 @@
+INFO Application started
+WARNING Disk space low
+ERROR Unable to connect to database
+INFO Retrying connection
